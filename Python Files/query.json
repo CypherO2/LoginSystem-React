@@ -1,0 +1,15 @@
+{
+"Select": 
+	{
+		"users":["Name"],
+		"From":
+			{
+				"Table":["users"]
+			},
+		"Where":
+			{
+				"=":[["Name","'Alice Lee'"],["Password","'secretPass'"]]
+			}
+	}
+
+}
